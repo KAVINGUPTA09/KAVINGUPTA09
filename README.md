@@ -1,8 +1,19 @@
-<h1 align="center">Hi, I'm Kavin Gupta 👋</h1>
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kavin%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Analyst%20%7C%20Backend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://github.com/KAVINGUPTA09">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+ML+systems+%F0%9F%A4%96;RAG+pipelines+%7C+LLM+Agents+%7C+MLOps+%F0%9F%9A%80;94%25+recall+on+0.16%25+fraud+data+%F0%9F%9B%A1%EF%B8%8F;Top+200+%40+HCLTech+AIthon+(10%2C000%2B+participants)+%F0%9F%8F%86;SIH+2026+National+Screening+Shortlisted+%F0%9F%87%AE%F0%9F%87%B3;Open+to+AI%2FML+%26+Data+Analyst+roles+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <b>AI/ML Engineer · Data Analyst · Backend Developer</b><br>
-  B.Tech CSE @ KIET Group of Institutions (2024–2028) · CGPA 8.3
+  <img src="https://komarev.com/ghpvc/?username=KAVINGUPTA09&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/KAVINGUPTA09?style=for-the-badge&logo=github&color=7c3aed" />
+  <img src="https://img.shields.io/badge/CGPA-8.3-success?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -13,101 +24,175 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🤖 I build **production-grade ML systems, RAG pipelines and LLM agents**
-- 🧪 ML Intern @ **FlyRank Corp.**: MLOps pipelines for a B2B procurement platform
-- 📊 Ex-AI & Data Analyst Intern @ **Xylofy AI**: fraud detection with 94% recall
-- 🏆 **HCLTech AIthon**: Top 200 of 10,000+ participants · Top 3 at KIET
-- 🇮🇳 **Smart India Hackathon 2026**: shortlisted for national screening (NCRB / MHA track)
-- 🧩 200+ DSA problems solved on LeetCode
-- ☁️ AWS Certified Cloud Practitioner · Oracle SQL · Red Hat Linux Fundamentals
+```python
+class Kavin:
+    role      = "AI/ML Engineer & Data Analyst"
+    education = "B.Tech CSE @ KIET Group of Institutions (2024–2028)"
+    cgpa      = 8.3
+    interning = "ML Intern @ FlyRank Corp."
+    focus     = ["RAG Pipelines", "LLM Agents", "MLOps", "Fraud/Risk Analytics"]
+    currently = "Preparing for SIH 2026 national screening 🇮🇳"
+    open_to   = ["AI/ML Engineer", "Data Analyst"]
+```
+
+- 🧪 **ML Intern @ FlyRank Corp.**: MLOps pipelines for a B2B procurement platform, 100+ production users
+- 📊 **Ex-AI & Data Analyst Intern @ Xylofy AI**: fraud detection engine with 94% recall
+- ☁️ AWS Certified Cloud Practitioner · Oracle SQL · Red Hat Linux Fundamentals · Deloitte Simulation
+
+---
+
+## 🏆 Achievements
+
+### 🎖️ GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/KAVINGUPTA09?tab=achievements&achievement=quickdraw"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="110" title="Quickdraw"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/KAVINGUPTA09?tab=achievements&achievement=pull-shark"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="110" title="Pull Shark"/></a>
+</p>
+
+<p align="center">
+  <b>🤠 Quickdraw</b>: closed an issue/PR within 5 minutes of opening &nbsp;·&nbsp; <b>🦈 Pull Shark</b>: merged pull requests
+</p>
+
+### 🌟 Competitions & Milestones
+
+| 🏅 | Achievement |
+|:-:|---|
+| 🥇 | **HCLTech AIthon**: Top 200 out of 10,000+ participants nationwide · Top 3 across KIET Group |
+| 🇮🇳 | **Smart India Hackathon 2026**: qualified institutional round, shortlisted for national screening (NCRB / MHA track) |
+| 🧩 | **200+ DSA problems** solved on LeetCode |
+| ☁️ | **AWS Certified Cloud Practitioner** |
+| 🎓 | Oracle SQL Database · Red Hat Linux Fundamentals · Deloitte Simulation |
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,c,postgres,redis,fastapi,flask,react,nextjs,docker,aws,linux,git,github,sqlite&perline=8" />
+</p>
 
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Agno](https://img.shields.io/badge/Agno-000000?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Backend & Frontend**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Data & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agno-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🏢 ProcureMind AI: Enterprise B2B Procurement Platform
-Multi-criteria ranking of vendor quotations (price, SLA, warranties) with LLM-driven contract risk assessment, negotiation insights and what-if analysis. Serves **100+ users**.
-- **Stack:** FastAPI · React · PostgreSQL · Redis · LangChain · Render
-- High-concurrency microservices with connection pooling, Redis caching for PDF parsing and reports, and JWT-based RBAC (Buyer / Approver / Admin)
-- 🔗 [Frontend Live](https://procurewise-insight.onrender.com/) · [Backend Live](https://procuremind-ai-backend.onrender.com/) · [Frontend Repo](https://github.com/KAVINGUPTA09/procurewise-insight) · [Backend Repo](https://github.com/KAVINGUPTA09/procuremind-ai-backend)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### ⚖️ Tathya: Secure Case & Evidence Management (SIH 2026)
-Tamper-evident case and evidence platform with an AI layer for permission-aware, bilingual semantic search across 5 institutional roles.
-- **Stack:** FastAPI · Next.js · PostgreSQL (pgvector) · MinIO · Hardhat · Solidity
-- RAG pipeline with OpenCV/OCR ingestion and pgvector embeddings; SHA-256 and three-way hash integrity verification anchored to a local Ethereum ledger
-- 🔗 [Video Explanation](https://acesse.one/uqct63w) · [GitHub Repo](https://github.com/KAVINGUPTA09/TATHYA--sih26-KAVINGUPTA09)
+### 🏢 ProcureMind AI
+**Enterprise B2B Procurement Platform**
 
-### 🛡️ FraudGuard AI: Fraud Detection Engine
-End-to-end pipeline on heavily skewed transactions (**0.16% fraud rate**) reaching **94% recall** with SMOTE + XGBoost.
-- **Stack:** Python · XGBoost · SMOTE · Flask · Streamlit · SHAP
-- Async REST APIs with schema validation and batch inference; dashboard with real-time SHAP explainability
-- 🔗 [Frontend Live](https://fraud-detection-dashboard-54hq.onrender.com/) · [Backend Live](https://mlproject-1eie.onrender.com/) · [GitHub Repo](https://github.com/KAVINGUPTA09/MLPROJECT-)
+Multi-criteria vendor quote ranking (price, SLA, warranties) + LLM contract-risk assessment, negotiation insights and what-if analysis. Serves **100+ users**.
 
-### 🎬 InsightTube v3.3: AI Video Intelligence
-Autonomous agent that converts long videos into executive briefs, action checklists and takeaways, with timestamped chapter breakdowns.
-- **Stack:** Agno · Llama 3.3 · Groq · SQLite · Streamlit
-- yt-dlp + YouTubeTranscriptApi extraction, SQLite session storage, PDF/Markdown export
-- 🔗 [Live Demo](https://youtube-link-analyzer-using-agno-agents-erggp6b3gxgxtb8xn9dz2n.streamlit.app/) · [GitHub Repo](https://github.com/KAVINGUPTA09/YOUTUBE-LINK-ANALYZER-USING-AGNO-AGENTS)
+`FastAPI` `React` `PostgreSQL` `Redis` `LangChain`
+
+JWT-based RBAC · Redis caching · connection pooling
+
+[🌐 Frontend](https://procurewise-insight.onrender.com/) · [⚙️ Backend](https://procuremind-ai-backend.onrender.com/) · [📂 FE Repo](https://github.com/KAVINGUPTA09/procurewise-insight) · [📂 BE Repo](https://github.com/KAVINGUPTA09/procuremind-ai-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚖️ Tathya (SIH 2026)
+**Secure Case & Evidence Management**
+
+Permission-aware bilingual RAG search across 5 roles, with SHA-256 + three-way hash verification anchored to a local Ethereum ledger.
+
+`FastAPI` `Next.js` `pgvector` `MinIO` `Solidity`
+
+OCR ingestion · tamper-evident evidence
+
+[🎥 Video](https://acesse.one/uqct63w) · [📂 Repo](https://github.com/KAVINGUPTA09/TATHYA--sih26-KAVINGUPTA09)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ FraudGuard AI
+**Fraud Detection Engine**
+
+Skewed data (**0.16% fraud**) handled with SMOTE + XGBoost for **94% recall**, with real-time SHAP explainability.
+
+`XGBoost` `SMOTE` `Flask` `Streamlit` `SHAP`
+
+Async REST APIs · batch inference
+
+[🌐 Frontend](https://fraud-detection-dashboard-54hq.onrender.com/) · [⚙️ Backend](https://mlproject-1eie.onrender.com/) · [📂 Repo](https://github.com/KAVINGUPTA09/MLPROJECT-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 InsightTube v3.3
+**AI Video Intelligence**
+
+Turns long videos into executive briefs, action checklists and timestamped chapters with an autonomous agent.
+
+`Agno` `Llama 3.3` `Groq` `SQLite` `Streamlit`
+
+PDF / Markdown export
+
+[🚀 Live Demo](https://youtube-link-analyzer-using-agno-agents-erggp6b3gxgxtb8xn9dz2n.streamlit.app/) · [📂 Repo](https://github.com/KAVINGUPTA09/YOUTUBE-LINK-ANALYZER-USING-AGNO-AGENTS)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### ❤️ Heart Disease Analytics Engine
-Clinical analytics pipeline identifying cardiovascular risk correlations across patient biomarkers, with interactive Tableau dashboards.
-- **Stack:** Python · Scikit-learn · Tableau · Render
-- 🔗 [Live Demo](https://heartdisease-da-1.onrender.com/) · [GitHub Repo](https://github.com/KAVINGUPTA09/HeartDisease_DA)
+Clinical analytics pipeline finding cardiovascular risk correlations across patient biomarkers, with interactive Tableau dashboards. `Python` `Scikit-learn` `Tableau` `Render`
+
+[🚀 Live Demo](https://heartdisease-da-1.onrender.com/) · [📂 Repo](https://github.com/KAVINGUPTA09/HeartDisease_DA)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KAVINGUPTA09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINGUPTA09&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KAVINGUPTA09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINGUPTA09&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KAVINGUPTA09&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=KAVINGUPTA09&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KAVINGUPTA09&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" />
 </p>
 
 ---
 
-<p align="center"><i>Open to AI/ML Engineer & Data Analyst opportunities. Let's connect! 🤝</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Let's+build+something+intelligent+%F0%9F%A7%A0;Open+to+opportunities.+Let's+connect!+%F0%9F%A4%9D" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" width="100%"/>
+</p>
